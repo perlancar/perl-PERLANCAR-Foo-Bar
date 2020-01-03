@@ -11,7 +11,7 @@ package PERLANCAR::Foo::Bar;
 =head1 DESCRIPTION
 
 Some distributions, in their tests, use C<Foo>, C<Bar>, C<Foo::Bar>, etc as
-random modules name that are assumed to not exist. Well not so fast.
+random module names that are assumed to not exist. Well not so fast.
 
 
 =head1 SEE ALSO
