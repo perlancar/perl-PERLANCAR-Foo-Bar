@@ -1,4 +1,5 @@
-package Bar;
+package
+    Bar;
 
 # AUTHORITY
 # DATE
@@ -10,5 +11,5 @@ package Bar;
 
 =head1 DESCRIPTION
 
-Some distributions use C<Foo> as a random module name that is assumed to not
-exist. Well not so fast.
+Some distributions, in their tests, use C<Bar> as a random module name that is
+assumed to not exist. Well not so fast.
